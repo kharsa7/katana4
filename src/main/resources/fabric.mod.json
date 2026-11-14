@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "elementalkatanas",
+  "version": "${version}",
+  "name": "Elemental Katanas",
+  "description": "Five elemental Japanese katanas: Frost, Flame, Lightning, Gravity and Dimensional.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "*",
+  "mixins": ["elementalkatanas.mixins.json"],
+  "entrypoints": {
+    "main": ["com.example.katanas.ElementalKatanas"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

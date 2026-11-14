@@ -1,0 +1,20 @@
+{
+  "itemGroup.elementalkatanas.katanas": "Elemental Katanas",
+  "tooltip.elementalkatanas.cooldown": "Right-click cooldown: %ss",
+  "message.elementalkatanas.no_target": "No target in range",
+  "item.elementalkatanas.frost_katana": "Frost Katana",
+  "item.elementalkatanas.frost_katana.passive": "On hit: Slowness and freezing",
+  "item.elementalkatanas.frost_katana.active": "Right-click: Frost cone freezes enemies in place",
+  "item.elementalkatanas.flame_katana": "Flame Katana",
+  "item.elementalkatanas.flame_katana.passive": "On hit: Sets targets ablaze for 8s",
+  "item.elementalkatanas.flame_katana.active": "Right-click: Fiery slash wave ignites everything it crosses",
+  "item.elementalkatanas.lightning_katana": "Lightning Katana",
+  "item.elementalkatanas.lightning_katana.passive": "On hit: 25% chance to shock for bonus magic damage",
+  "item.elementalkatanas.lightning_katana.active": "Right-click: Call lightning on your target (you are immune)",
+  "item.elementalkatanas.gravity_katana": "Gravity Katana",
+  "item.elementalkatanas.gravity_katana.passive": "On hit: Levitation and heavy knockback",
+  "item.elementalkatanas.gravity_katana.active": "Right-click: Gravity well pulls, lifts, then slams mobs",
+  "item.elementalkatanas.space_katana": "Dimensional Katana",
+  "item.elementalkatanas.space_katana.passive": "On hit: Cuts through armor",
+  "item.elementalkatanas.space_katana.active": "Right-click: Dimensional Blink slashes everything on your path"
+}

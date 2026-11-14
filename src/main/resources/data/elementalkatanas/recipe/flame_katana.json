@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "  B",
+    " BC",
+    "H  "
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": [
+      {
+        "item": "minecraft:blaze_rod"
+      },
+      {
+        "item": "minecraft:blaze_powder"
+      }
+    ],
+    "H": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "elementalkatanas:flame_katana",
+    "count": 1
+  }
+}

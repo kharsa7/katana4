@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "  B",
+    " BC",
+    "H  "
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "minecraft:trident"
+    },
+    "H": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "elementalkatanas:lightning_katana",
+    "count": 1
+  }
+}

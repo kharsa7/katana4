@@ -1,0 +1,12 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "com.example.katanas.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "HeldItemRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}

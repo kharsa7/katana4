@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "  B",
+    " BC",
+    "H  "
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": [
+      {
+        "item": "minecraft:prismarine_crystals"
+      },
+      {
+        "item": "minecraft:prismarine_shard"
+      }
+    ],
+    "H": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "elementalkatanas:frost_katana",
+    "count": 1
+  }
+}
